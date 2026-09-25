@@ -1,6 +1,6 @@
 # LCA data lineage hackathon
 
-> This project has moved to the [Brightcon 2026 hackathon](https://github.com/Depart-de-Sentier/brightcon-2026-material/tree/main/hackathon). Continue development in `hackathon/` there. This repository is retained as a historical copy.
+> This project has moved to the [Brightcon 2026 hackathon](https://github.com/Depart-de-Sentier/brightcon-2026-material/tree/main/hackathon/lca-lineage). Continue development in `hackathon/lca-lineage/` there. This repository is retained as a historical copy.
 
 Private workspace for the Brightcon 2026 hackathon on traceable datapoints and lineage in life cycle assessment (LCA) databases.
 
